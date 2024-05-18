@@ -6,7 +6,7 @@
 Welcome to my GitHub profile. I am currently in my third year of studying Computer Science and Mathematics, with a focus on Data Science. This repository serves as a portfolio of my academic projects and technical skills.
 
 ## Contact Information
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/talor-langnas-374784288/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -16,7 +16,20 @@ Welcome to my GitHub profile. I am currently in my third year of studying Comput
   <a href="https://instagram.com/talorlangnas" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+</p> -->
+## Contact Information
+<p align="left">
+  <a href="https://www.linkedin.com/in/talor-langnas-374784288/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/talor.langnas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/talorlangnas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 
 ## Highlighted Projects
 Below are some of the key projects I have worked on:
