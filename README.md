@@ -67,8 +67,11 @@ Below are some of the key projects I have worked on:
   - This course covers deep learning architecture, image and sequence processing, regression and classification models, and fundamental concepts in natural language processing.
 - **[Introduction To Data-Science](https://github.com/TalorLangnas/Introduction-To-Data-Science)**
   - This course offers an overview of Data Science, It covers essential mathematics like linear algebra and statistics, alongside various machine learning models such as linear regression, KNN, decision trees, and Naive Bayes.
+- **[AI Algorithms](https://github.com/TalorLangnas/BayesianNetwork/tree/master/out/production/BayesianNetwork2)**
+  - This course explores the foundations of computerized decision-making, covering Bayesian networks, decision networks, game theory, and social voting. For my project, I implemented a Bayesian network from an XML file, including the Bayes Ball algorithm for dependency analysis and the Variable Elimination algorithm for probabilistic inference.
 <!-- <hr style="border: 0; height: 2px; background: #333;"> -->
 <hr />
+
 
 ### 🖼️ Image Processing [🔗](https://github.com/TalorLangnas/Image-Processing/tree/main)
 > This course focusing on the theory and implementation of common algorithms for image processing and computer vision.
