@@ -2,8 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Talor Langnas</h1>
 
 ### Computer Science & Mathematics Graduate | Data Science Program
-
-Welcome to my GitHub profile. Computer Science and Mathematics Graduate with a Focus on Data Science. This repository serves as a portfolio of my academic projects and technical skills.
+Welcome to my GitHub profile. I am a Computer Science and Mathematics graduate focusing on Data Science. This repository serves as a portfolio of my academic projects and technical skills.
 
 ## Contact Information
 <p align="left">
