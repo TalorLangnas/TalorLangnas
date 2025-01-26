@@ -1,9 +1,9 @@
 ![banner](https://raw.githubusercontent.com/TalorLangnas/TalorLangnas/main/src/data.png)
 <h1 align="center">Hi there 👋, I'm Talor Langnas</h1>
 
-### Computer Science & Mathematics Student | Data Science Program
+### Computer Science & Mathematics Graduate | Data Science Program
 
-Welcome to my GitHub profile. I am currently in my third year of studying Computer Science and Mathematics, with a focus on Data Science. This repository serves as a portfolio of my academic projects and technical skills.
+Welcome to my GitHub profile. Computer Science and Mathematics Graduate with a Focus on Data Science. This repository serves as a portfolio of my academic projects and technical skills.
 
 ## Contact Information
 <p align="left">
