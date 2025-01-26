@@ -61,9 +61,13 @@ Welcome to my GitHub profile. I am currently in my third year of studying Comput
 ## 💼 Highlighted Projects
 Below are some of the key projects I have worked on:
 <br />
+### ⏩ Final Year Project: Encrypted Traffic Classification Using the Forward-Forward Algorithm [🔗](https://github.com/TalorLangnas/ff_project)
+  - Final BSc project in Computer Science at Ariel University, Israel. The project investigates the Forward-Forward (FF) Algorithm, proposed in Geoffrey Hinton's Paper, as an alternative to backpropagation. The primary goal is to evaluate the FF model's performance on a VPN-encrypted traffic dataset and compare it against state-of-the-art machine learning models.
 ### 🛡️ SecUnity [🔗](https://github.com/Secunity-LTD/secunity_flutter/tree/main/SecUnity_2)
   - A Flutter and Firebase-based application designed to optimize the management of security teams in community environments. It provides robust functionalities for         scheduling, task assignment, and incident reporting, enhancing operational efficiency and team collaboration.
- 
+<!-- <hr style="border: 0; height: 2px; background: #333;"> -->
+<hr />
+
 ### 📊 Data Science
 - **[Deep Learning](https://github.com/TalorLangnas/facial-classification)**
   - This course covers deep learning architecture, image and sequence processing, regression and classification models, and fundamental concepts in natural language processing.
